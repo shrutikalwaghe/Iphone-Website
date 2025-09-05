@@ -35,4 +35,4 @@ This project demonstrates front-end development skills, including:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/iphone-website.git
+   git clone https://github.com/shruti kalwaghe/iphone-website.git
